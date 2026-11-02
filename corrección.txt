@@ -1,0 +1,22 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Flujo básico completado correctamente 😀
+
+Has creado una rama, modificado el README y fusionado
+los cambios en main mediante una pull request.
+Has conservado el encabezado del README y añadido
+una descripción a la PR que explica el cambio.
+
+Como mejoras:
+- Amplía el saludo con una breve presentación.
+  El texto actual, "Hola! :D", es muy breve.
+- Utiliza mensajes de commit y títulos de PR más concretos
+  que "Primer cambio", por ejemplo "Añadir saludo al README".
+
+Estas observaciones son para tenerlas en cuenta en las
+siguientes prácticas. No necesitas repetir ni corregir
+esta entrega.
+
+Puedes fusionar esta PR para incorporar la devolución.
+La práctica queda revisada y puedes borrar el repositorio
+cuando quieras.
